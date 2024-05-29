@@ -31,3 +31,40 @@
      << "d: " << d << std::endl
      << "c: " << c << std::endl
      << "s: " << s << std::endl;`
+
+15.
+    a. 2 + 3 = int 5
+    b. 19 / 5 = int 3
+    c. 19.0 / 5 = float 3.8
+    d. 3 * 6.0 = float 18.0
+    e. 19 % 5 = int 4
+    f. 2 % 7 = int 2
+
+16. unary minus indicates the signal of an operation. Is set on an single number. Subtraction operator is used in a expression,
+    with number on both side.
+
+17. **truncation** is the operation of consider only the integer on an division, witch means, discard the decimal part.
+
+18. type cast is a explicit conversion from an type to another.
+
+19.
+    a. 4
+    b. 2
+    c. 42
+    d. 42
+
+20. can be `+=`, `-=`, `/=` or `*=`
+
+21. The ++x operator increments the value of `x` before use. The x++ use the value of `x` and after increases its value.
+
+22. Is the evaluation that stops as soon the result is known. As exemple: `true || false` or `false && true`
+
+23. if (condition) {}; switch (condition) case value; while (condition) {}; for (start_value; condition; step) {}
+
+24. Given a value, match this value with each of condition. Case the value satifies some condition, execute the body of this condition.
+    When find the `break` keyword stop the interation and pass to next statement
+
+25. 
+    a. for (int i = 1; i <= 100; i++)
+    b. for (int i = 0; i < 100; i += 7)
+    c. for (int i = 100; i >= 0; i--)
